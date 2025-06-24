@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lone Selfbot**
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML, C++**
+- 🌱 I’m currently learning **Python, JavaScript, CSS, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prodigydoesntskid?tab=repositories](https://github.com/prodigydoesntskid?tab=repositories)
 
