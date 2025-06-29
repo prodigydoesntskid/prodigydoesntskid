@@ -9,7 +9,7 @@
 ---
 
 ### 🎮 Live Presence:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1376203737038848095)](https://discord.com/users/1376203737038848095)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1376203737038848095?bg=000000&showDisplayName=true)](https://discord.com/users/1376203737038848095)
 
 ---
 
