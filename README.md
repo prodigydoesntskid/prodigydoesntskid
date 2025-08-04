@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tools of the Trade:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Learning Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 ---
 
