@@ -11,32 +11,26 @@
 
 ---
 
-<!-- 🎮 Live Presence -->
+<!-- 🔁 Live Presence -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=🎮+Live+Presence" alt="Live Presence" />
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1396883973543559229?idleMessage=Working%20On%20Illuminati&bg=1a&theme=dark)](https://discord.com/users/1396883973543559229)
 
 ---
 
-<!-- 🛠️ Tools of the Trade -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=🛠️+Tools+of+the+Trade" alt="Tools of the Trade" />
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![Learning Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+<!-- 🔁 Rotating Tools -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=00FF00&width=600&lines=🛠️+Currently+Using:+Python;🛠️+Currently+Using:+HTML;🛠️+Currently+Using:+CSS" alt="Tools of the Trade" />
 
 ---
 
-<!-- 👨‍💻 What I'm Currently Coding -->
+<!-- 🔁 What You're Coding -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=👨‍💻+What+I'm+Currently+Coding" alt="Currently Coding" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&vCenter=true&width=600&lines=Currently+Making+The+Selfbot+'Lucifer'" alt="Currently Coding Status" />
 
 ---
 
-<!-- 📈 Cyber Stats -->
+<!-- 📈 Stats -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=📈+Cyber+Stats" alt="Cyber Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=prodigydoesntskid&theme=tokyonight&show_icons=true" />
