@@ -26,7 +26,7 @@
 ---
 
 ### 👨‍💻 What I'm Currently Coding:
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&vCenter=true&multiline=true&width=500&lines=Currently+Making+The+Selfbot;Named+'Lucifer'" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&vCenter=true&width=600&lines=Currently+Making+The+Selfbot+'Lucifer'" alt="Currently Coding" />
 
 ---
 
