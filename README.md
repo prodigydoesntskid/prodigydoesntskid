@@ -19,6 +19,10 @@ h3>
 
 ---
 
+### 👨‍💻 What I'm Currently Coding:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&vCenter=true&width=435&lines=Currently+Crafting+A+Selfbot+Named+Lucifer" alt="Currently Coding" />
+
+---
 ### 📈 Cyber Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prodigydoesntskid&theme=tokyonight&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prodigydoesntskid&theme=tokyonight)
