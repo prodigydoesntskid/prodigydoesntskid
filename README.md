@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Tools of the Trade:
-![Tools of the Trade](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=00FF00&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Currently+Using:+Python;%F0%9F%9B%A0%EF%B8%8F+Currently+Using:+HTML;%F0%9F%9B%A0%EF%B8%8F+Currently+Using:+CSS)
+![Tools of the Trade](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=00FF00&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Currently+Using:Python,JS,HTML,CSS)
 
 ---
 
