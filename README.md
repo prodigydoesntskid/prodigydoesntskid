@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&vCenter=true&multiline=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Prodigy.;I+Create+The+Best+Selfbots.+" alt="Typing SVG" /></h1>
-<h3 align="center" style="color: #39ff14;">👨‍💻 Coded in the shadows. Forged for the elite.</h3>
+<h3 align="center" style="color: #39ff14;">👨‍💻 Coded in the shadows. Forged for the elite.</
+h3>
 
 ---
 
@@ -9,7 +10,7 @@
 ---
 
 ### 🎮 Live Presence:
-[![Discord Presence](https://lanyard.cnrad.dev/api/1376203737038848095?bg=000000&showDisplayName=true)](https://discord.com/users/1376203737038848095)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1396883973543559229?idleMessage=Working%20On%20Illuminati&bg=1a&theme=dark)](https://discord.com/users/1396883973543559229)
 
 ---
 
