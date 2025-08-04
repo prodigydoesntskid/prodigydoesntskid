@@ -11,28 +11,22 @@
 
 ---
 
-<!-- 🔁 Live Presence -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=🎮+Live+Presence" alt="Live Presence" />
-
+### 🎮 Live Presence:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1396883973543559229?idleMessage=Working%20On%20Illuminati&bg=1a&theme=dark)](https://discord.com/users/1396883973543559229)
 
 ---
 
-<!-- 🔁 Rotating Tools -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=00FF00&width=600&lines=🛠️+Currently+Using:+Python;🛠️+Currently+Using:+HTML;🛠️+Currently+Using:+CSS" alt="Tools of the Trade" />
+### 🛠️ Tools of the Trade:
+![Tools of the Trade](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=5000&color=00FF00&width=600&lines=%F0%9F%9B%A0%EF%B8%8F+Currently+Using:+Python;%F0%9F%9B%A0%EF%B8%8F+Currently+Using:+HTML;%F0%9F%9B%A0%EF%B8%8F+Currently+Using:+CSS)
 
 ---
 
-<!-- 🔁 What You're Coding -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=👨‍💻+What+I'm+Currently+Coding" alt="Currently Coding" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&vCenter=true&width=600&lines=Currently+Making+The+Selfbot+'Lucifer'" alt="Currently Coding Status" />
+### 👨‍💻 What I'm Currently Coding:
+![Currently Coding](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=5000&color=00FF00&vCenter=true&width=600&lines=Currently+Making+The+Selfbot+Lucifer)
 
 ---
 
-<!-- 📈 Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&width=600&lines=📈+Cyber+Stats" alt="Cyber Stats" />
-
+### 📈 Cyber Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=prodigydoesntskid&theme=tokyonight&show_icons=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prodigydoesntskid&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodigydoesntskid&layout=compact&theme=tokyonight" />
